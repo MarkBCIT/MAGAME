@@ -1,0 +1,833 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-10-06T16:48:31.364-07:00
+  initializedAtString: 2018-10-06T16:48:31.364-07:00
+  log:
+  - commitID: 5effd72d5f3aaa59dde6dee3f8f3869a7edb9a25
+    mergeA: 
+    mergeB: 
+    authorName: MarkBCIT
+    authorEmail: dfs4mark@gmail.com
+    commitEmail: dfs4mark@gmail.com
+    commitName: MarkBCIT
+    summary: 1
+    description: "1\r\n\r\n1"
+    timeString: 2018-09-14T12:32:06.000-07:00
+    commitTimeString: 2018-09-14T12:32:06.000-07:00
+    changes:
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\OneDrive\MA Game\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Texture\game-scans\Button.controller
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\Button.controller
+      projectPath: Assets\Texture\game-scans\Button.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\Button.controller.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\Button.controller.meta
+      projectPath: Assets\Texture\game-scans\Button.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\New Animation.anim
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\New Animation.anim
+      projectPath: Assets\Texture\game-scans\New Animation.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\New Animation.anim.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\New Animation.anim.meta
+      projectPath: Assets\Texture\game-scans\New Animation.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\Text.controller
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\Text.controller
+      projectPath: Assets\Texture\game-scans\Text.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\Text.controller.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\Text.controller.meta
+      projectPath: Assets\Texture\game-scans\Text.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\buttin.anim
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\buttin.anim
+      projectPath: Assets\Texture\game-scans\buttin.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\buttin.anim.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\buttin.anim.meta
+      projectPath: Assets\Texture\game-scans\buttin.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 9cc0661b4751324f09d604022beb9b3e3b12947e
+    mergeA: 
+    mergeB: 
+    authorName: MarkBCIT
+    authorEmail: dfs4mark@gmail.com
+    commitEmail: dfs4mark@gmail.com
+    commitName: MarkBCIT
+    summary: 1
+    description: "1\r\n\r\n1"
+    timeString: 2018-09-14T12:15:36.000-07:00
+    commitTimeString: 2018-09-14T12:15:36.000-07:00
+    changes:
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\OneDrive\MA Game\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: d64f049107d42a97e956131df4589d42890505e9
+    mergeA: 
+    mergeB: 
+    authorName: MarkBCIT
+    authorEmail: dfs4mark@gmail.com
+    commitEmail: dfs4mark@gmail.com
+    commitName: MarkBCIT
+    summary: '!!!'
+    description: "!!!\r\n\r\n!!!!!"
+    timeString: 2018-09-14T11:16:07.000-07:00
+    commitTimeString: 2018-09-14T11:16:07.000-07:00
+    changes:
+    - path: Assets\Plugins.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\OneDrive\MA Game\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\StartMenu.cs
+      fullPath: C:\OneDrive\MA Game\Assets\StartMenu.cs
+      projectPath: Assets\StartMenu.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\StartMenu.cs.meta
+      fullPath: C:\OneDrive\MA Game\Assets\StartMenu.cs.meta
+      projectPath: Assets\StartMenu.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture.meta
+      projectPath: Assets\Texture.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans.meta
+      projectPath: Assets\Texture\game-scans.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\bl-back.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\bl-back.jpg
+      projectPath: Assets\Texture\game-scans\bl-back.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\bl-back.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\bl-back.jpg.meta
+      projectPath: Assets\Texture\game-scans\bl-back.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\bl-cover.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\bl-cover.jpg
+      projectPath: Assets\Texture\game-scans\bl-cover.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\bl-cover.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\bl-cover.jpg.meta
+      projectPath: Assets\Texture\game-scans\bl-cover.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\cards.txt
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\cards.txt
+      projectPath: Assets\Texture\game-scans\cards.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\cards.txt.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\cards.txt.meta
+      projectPath: Assets\Texture\game-scans\cards.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\martial-arts-sheet.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\martial-arts-sheet.jpg
+      projectPath: Assets\Texture\game-scans\martial-arts-sheet.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\martial-arts-sheet.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\martial-arts-sheet.jpg.meta
+      projectPath: Assets\Texture\game-scans\martial-arts-sheet.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\opponent-cards-1.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\opponent-cards-1.jpg
+      projectPath: Assets\Texture\game-scans\opponent-cards-1.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\opponent-cards-1.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\opponent-cards-1.jpg.meta
+      projectPath: Assets\Texture\game-scans\opponent-cards-1.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\opponent-cards-2.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\opponent-cards-2.jpg
+      projectPath: Assets\Texture\game-scans\opponent-cards-2.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\opponent-cards-2.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\opponent-cards-2.jpg.meta
+      projectPath: Assets\Texture\game-scans\opponent-cards-2.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\opponent-cards-3.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\opponent-cards-3.jpg
+      projectPath: Assets\Texture\game-scans\opponent-cards-3.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\opponent-cards-3.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\opponent-cards-3.jpg.meta
+      projectPath: Assets\Texture\game-scans\opponent-cards-3.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\opponent-cards-4.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\opponent-cards-4.jpg
+      projectPath: Assets\Texture\game-scans\opponent-cards-4.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\opponent-cards-4.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\opponent-cards-4.jpg.meta
+      projectPath: Assets\Texture\game-scans\opponent-cards-4.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\opponent-cards-5.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\opponent-cards-5.jpg
+      projectPath: Assets\Texture\game-scans\opponent-cards-5.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\opponent-cards-5.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\opponent-cards-5.jpg.meta
+      projectPath: Assets\Texture\game-scans\opponent-cards-5.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\opponent-cards-back.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\opponent-cards-back.jpg
+      projectPath: Assets\Texture\game-scans\opponent-cards-back.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\opponent-cards-back.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\opponent-cards-back.jpg.meta
+      projectPath: Assets\Texture\game-scans\opponent-cards-back.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\rule-1.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\rule-1.jpg
+      projectPath: Assets\Texture\game-scans\rule-1.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\rule-1.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\rule-1.jpg.meta
+      projectPath: Assets\Texture\game-scans\rule-1.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\rule-2.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\rule-2.jpg
+      projectPath: Assets\Texture\game-scans\rule-2.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\rule-2.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\rule-2.jpg.meta
+      projectPath: Assets\Texture\game-scans\rule-2.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\rule-3.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\rule-3.jpg
+      projectPath: Assets\Texture\game-scans\rule-3.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\rule-3.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\rule-3.jpg.meta
+      projectPath: Assets\Texture\game-scans\rule-3.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\rule-4.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\rule-4.jpg
+      projectPath: Assets\Texture\game-scans\rule-4.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\rule-4.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\rule-4.jpg.meta
+      projectPath: Assets\Texture\game-scans\rule-4.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\training-chips.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\training-chips.jpg
+      projectPath: Assets\Texture\game-scans\training-chips.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\training-chips.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\training-chips.jpg.meta
+      projectPath: Assets\Texture\game-scans\training-chips.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\urgent-cards.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\urgent-cards.jpg
+      projectPath: Assets\Texture\game-scans\urgent-cards.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\urgent-cards.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\urgent-cards.jpg.meta
+      projectPath: Assets\Texture\game-scans\urgent-cards.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\yin-yang-cards-1.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\yin-yang-cards-1.jpg
+      projectPath: Assets\Texture\game-scans\yin-yang-cards-1.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\yin-yang-cards-1.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\yin-yang-cards-1.jpg.meta
+      projectPath: Assets\Texture\game-scans\yin-yang-cards-1.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\yin-yang-cards-2.jpg
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\yin-yang-cards-2.jpg
+      projectPath: Assets\Texture\game-scans\yin-yang-cards-2.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\game-scans\yin-yang-cards-2.jpg.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\game-scans\yin-yang-cards-2.jpg.meta
+      projectPath: Assets\Texture\game-scans\yin-yang-cards-2.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\movie.mov
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\movie.mov
+      projectPath: Assets\Texture\movie.mov
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\movie.mov.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\movie.mov.meta
+      projectPath: Assets\Texture\movie.mov.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\music.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\music.meta
+      projectPath: Assets\Texture\music.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\music\bmw.mp3
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\music\bmw.mp3
+      projectPath: Assets\Texture\music\bmw.mp3
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Texture\music\bmw.mp3.meta
+      fullPath: C:\OneDrive\MA Game\Assets\Texture\music\bmw.mp3.meta
+      projectPath: Assets\Texture\music\bmw.mp3.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Packages\manifest.json
+      fullPath: C:\OneDrive\MA Game\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\OneDrive\MA Game\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 87d1f58c9c451104ddc6d99eac0e054ba056b895
+    mergeA: 
+    mergeB: 
+    authorName: MarkBCIT
+    authorEmail: dfs4mark@gmail.com
+    commitEmail: dfs4mark@gmail.com
+    commitName: MarkBCIT
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-09-14T11:00:09.000-07:00
+    commitTimeString: 2018-09-14T11:00:09.000-07:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\OneDrive\MA Game\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\OneDrive\MA Game\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\OneDrive\MA Game\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
